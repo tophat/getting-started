@@ -12,7 +12,7 @@ Home for Top Hat Open Source's contributing docs and policies
 ## I want to Contribute
 The easiest way to get started, is to join the [slack workspace](https://opensource.tophat.com/#join-slack), and head to a project channel.
 
-We have a list of projects on the [opensource portal ](https://opensource.tophat.com), but you can always look through [github.com/tophat](github.com/tophat)
+We have a list of projects on the [opensource portal](https://opensource.tophat.com), but you can always look through [github.com/tophat](github.com/tophat)
 
 ## Branding
 For branding guidelines see [branding/branding.md](branding/branding.md)
