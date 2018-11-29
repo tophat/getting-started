@@ -14,17 +14,19 @@ The easiest way to get started is to join the [slack workspace](https://opensour
 
 We have a list of projects on the [opensource portal](https://opensource.tophat.com), but you can always look through [github.com/tophat](https://github.com/tophat)
 
-## Branding
+
+## Additional Resources
+### Branding
 For branding guidelines see [branding/branding.md](branding/branding.md)
 
 For branding assets see [branding/assets](branding/assets)
 
 
-## Score Card
+### Score Card
 TODO!
 
 
-## Code of Conduct/Licence/Polices etc
+### Code of Conduct/Licence/Polices etc
 TODO!
 
 
