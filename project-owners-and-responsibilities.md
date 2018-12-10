@@ -6,7 +6,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | ------------- | ------------- |
 | [yvm](/tophat/yvm) | [Jake Bolam](/jakebolam) |
 | [codewatch](/tophat/codewatch) | [Josh DM](/lime-green) |
-| [with-immutable-props-to-js](/tophat/with-immutable-props-to-js) | [Michale Rose](/msrose) |
+| [with-immutable-props-to-js](/tophat/with-immutable-props-to-js) | [Michael Rose](/msrose) |
 | [jenkins-timeline-plugin](/tophat/jenkins-timeline-plugin) | [Marc Cataford](/mcataford) |
 | [RichTextView](/tophat/RichTextView) | [Ahmed Elkady](/aelkady) |
 | [sanity-runner](/tophat/sanity-runner) | [Matt Haber](/mhaber-tophat) |
@@ -16,7 +16,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | ------------- | ------------- |
 | [opensource.tophat.com](/tophat/opensource.tophat.com) | [Sanchit Gera](/sanchitgera) |
 | [serverless-slack-invite](/tophat/serverless-slack-invite) | [Siavash Mahmoudian](/syavash) |
-| [eslint-config](/tophat/eslint-config) | [Michale Rose](/msrose) |
+| [eslint-config](/tophat/eslint-config) | [Michael Rose](/msrose) |
 | [oss-metrics-dashboard](/tophat/oss-metrics-dashboard) | [Jay Crumb](/jcrumb) |
 | [getting-started](/tophat/getting-started) | [Jake Bolam](/jakebolam) |
 
