@@ -4,21 +4,21 @@ These are the project owners, they are the leaders of the project and are accoun
 ## Project Owners
 | Project | Owner |
 | ------------- | ------------- |
-| [yvm](/tophat/yvm) | [Jake Bolam](/jakebolam) |
-| [codewatch](/tophat/codewatch) | [Josh DM](/lime-green) |
-| [with-immutable-props-to-js](/tophat/with-immutable-props-to-js) | [Michale Rose](/msrose) |
-| [jenkins-timeline-plugin](/tophat/jenkins-timeline-plugin) | [Marc Cataford](/mcataford) |
-| [RichTextView](/tophat/RichTextView) | [Ahmed Elkady](/aelkady) |
-| [sanity-runner](/tophat/sanity-runner) | [Matt Haber](/mhaber-tophat) |
+| [yvm](https://github.com/tophat/yvm) | [Jake Bolam](/jakebolam) |
+| [codewatch](https://github.com/tophat/codewatch) | [Josh DM](/lime-green) |
+| [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michale Rose](/msrose) |
+| [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](/mcataford) |
+| [RichTextView](https://github.com/tophat/RichTextView) | [Ahmed Elkady](/aelkady) |
+| [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](/mhaber-tophat) |
 
 ## Open Source Project Infrastructure Owners
 | Infrastructure Project | Owner |
 | ------------- | ------------- |
-| [opensource.tophat.com](/tophat/opensource.tophat.com) | [Sanchit Gera](/sanchitgera) |
-| [serverless-slack-invite](/tophat/serverless-slack-invite) | [Siavash Mahmoudian](/syavash) |
-| [eslint-config](/tophat/eslint-config) | [Michale Rose](/msrose) |
-| [oss-metrics-dashboard](/tophat/oss-metrics-dashboard) | [Jay Crumb](/jcrumb) |
-| [getting-started](/tophat/getting-started) | [Jake Bolam](/jakebolam) |
+| [opensource.tophat.com](https://github.com/tophat/opensource.tophat.com) | [Sanchit Gera](/sanchitgera) |
+| [serverless-slack-invite](https://github.com/tophat/serverless-slack-invite) | [Siavash Mahmoudian](/syavash) |
+| [eslint-config](https://github.com/tophat/eslint-config) | [Michale Rose](/msrose) |
+| [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](/jcrumb) |
+| [getting-started](https://github.com/tophat/getting-started) | [Jake Bolam](/jakebolam) |
 
 # Responsibilties of Project Owners
 As the owner, you are accountable and responsible for the following. Feel free to delegate responsibilty but accountability lies with you, the owner.
