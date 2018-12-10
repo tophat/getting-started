@@ -21,7 +21,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | [getting-started](/tophat/getting-started) | [Jake Bolam](/jakebolam) |
 
 # Responsibilties of Project Owners
-As the owner, you are accountable and responsible for the following. Feel free to delegate responsibilti but accountability lies with you, the owner.
+As the owner, you are accountable and responsible for the following. Feel free to delegate responsibilty but accountability lies with you, the owner.
 
 ## Responsibilties
 If you are on holidays/cannot handle your responsibilities you are responsible for delegating to contributors/members who can for the period etc. We want to support a community that will grow and manage the project!
@@ -34,7 +34,7 @@ If you are on holidays/cannot handle your responsibilities you are responsible f
 
 ### Community
 - Participate and answer inquiries in the project slack channel
-- Encourage others to contribute, assist where required.
+- Encourage others to contribute, assist where required
 - Ensure the project easy to understand and therefore easier to contribute to
 - Work towards a higher project maturity score
 
