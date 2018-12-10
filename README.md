@@ -27,7 +27,7 @@ For project code style see [code-style](code-style)
 
 
 ### Branding
-For branding guidelines see [branding/branding.md](branding/branding.md)
+For branding guidelines see [branding/branding](branding/branding.md)
 
 For branding assets see [branding/assets](branding/assets)
 
