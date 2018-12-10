@@ -11,7 +11,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | [RichTextView](/tophat/RichTextView) | [Ahmed Elkady](/aelkady) |
 | [sanity-runner](/tophat/sanity-runner) | [Matt Haber](/mhaber-tophat) |
 
-## Open Source Project Infrastructure Pwners
+## Open Source Project Infrastructure Owners
 | Infrastructure Project | Owner |
 | ------------- | ------------- |
 | [opensource.tophat.com](/tophat/opensource.tophat.com) | [Sanchit Gera](/sanchitgera) |
