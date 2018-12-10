@@ -16,18 +16,27 @@ We have a list of projects on the [opensource portal](https://opensource.tophat.
 
 
 ## Additional Resources
+### Project Owners (And Responsibilties)
+For the project owners and responsibilties see [project-owners-and-responsibilities](project-owners-and-responsibilities.md)
+
+### Project Maturity Score Card
+For the project maturity scorecard see [scorecard](scorecard.md)
+
+### Code Style
+For project code style see [code-style](code-style)
+
+
 ### Branding
 For branding guidelines see [branding/branding.md](branding/branding.md)
 
 For branding assets see [branding/assets](branding/assets)
 
 
-### Score Card
-TODO!
+### Code of Conduct/Licence
+For code of conduct see [code-of-conduct](code-of-conduct.md)
 
+License in all projects is [APACHE-2](LICENSE)
 
-### Code of Conduct/Licence/Polices etc
-TODO!
 
 
 ## Credits
