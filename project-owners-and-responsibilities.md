@@ -6,7 +6,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | ------------- | ------------- |
 | [yvm](https://github.com/tophat/yvm) | [Jake Bolam](https://github.com/jakebolam) |
 | [codewatch](https://github.com/tophat/codewatch) | [Josh DM](https://github.com/lime-green) |
-| [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michale Rose](https://github.com/msrose) |
+| [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michael Rose](https://github.com/msrose) |
 | [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](https://github.com/mcataford) |
 | [RichTextView](https://github.com/tophat/RichTextView) | [Ahmed Elkady](https://github.com/aelkady) |
 | [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](https://github.com/mhaber-tophat) |
@@ -16,7 +16,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | ------------- | ------------- |
 | [opensource.tophat.com](https://github.com/tophat/opensource.tophat.com) | [Sanchit Gera](https://github.com/sanchitgera) |
 | [serverless-slack-invite](https://github.com/tophat/serverless-slack-invite) | [Siavash Mahmoudian](https://github.com/syavash) |
-| [eslint-config](https://github.com/tophat/eslint-config) | [Michale Rose](https://github.com/msrose) |
+| [eslint-config](https://github.com/tophat/eslint-config) | [Michael Rose](https://github.com/msrose) |
 | [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](https://github.com/jcrumb) |
 | [getting-started](https://github.com/tophat/getting-started) | [Jake Bolam](https://github.com/jakebolam) |
 
