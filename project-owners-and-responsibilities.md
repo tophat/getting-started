@@ -4,7 +4,7 @@ These are the project owners, they are the leaders of the project and are accoun
 ## Project Owners
 | Project | Owner |
 | ------------- | ------------- |
-| [yvm](https://github.com/tophat/yvm) | [Jake Bolam](https://github.com/jakebolam) |
+| [yvm](https://github.com/tophat/yvm) | [Emmanuel Ogbizi](https://github.com/iamogbz) |
 | [codewatch](https://github.com/tophat/codewatch) | [Josh DM](https://github.com/lime-green) |
 | [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michael Rose](https://github.com/msrose) |
 | [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](https://github.com/mcataford) |
@@ -18,7 +18,7 @@ These are the project owners, they are the leaders of the project and are accoun
 | [serverless-slack-invite](https://github.com/tophat/serverless-slack-invite) | [Siavash Mahmoudian](https://github.com/syavash) |
 | [eslint-config](https://github.com/tophat/eslint-config) | [Michael Rose](https://github.com/msrose) |
 | [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](https://github.com/jcrumb) |
-| [getting-started](https://github.com/tophat/getting-started) | [Jake Bolam](https://github.com/jakebolam) |
+| [getting-started](https://github.com/tophat/getting-started) | [Michael Rose](https://github.com/msrose) |
 
 # Responsibilties of Project Owners
 As the owner, you are accountable and responsible for the following. Feel free to delegate responsibilty but accountability lies with you, the owner.
