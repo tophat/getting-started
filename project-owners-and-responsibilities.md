@@ -4,7 +4,7 @@ These are the project owners, they are the leaders of the project and are accoun
 ## Project Owners
 | Project | Owner |
 | ------------- | ------------- |
-| [yvm](https://github.com/tophat/yvm) | [Jake Bolam](https://github.com/jakebolam) |
+| [yvm](https://github.com/tophat/yvm) | [Emmanuel Ogbizi](https://github.com/iamogbz) |
 | [codewatch](https://github.com/tophat/codewatch) | [Josh DM](https://github.com/lime-green) |
 | [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michael Rose](https://github.com/msrose) |
 | [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](https://github.com/mcataford) |
