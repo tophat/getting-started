@@ -1,5 +1,8 @@
+
+
 # Creating a new repository within Top Hat Open Source
 
+<span><img align="right" src="../branding/assets/top-hat-open-source-logo-diamond.png" alt="Logo"></span>
 Project owners can create new repositories within the Top Hat Open Source organization as needed, whether it is for a brand new project or for code not part of an existing project but that would be supporting one of them. To ensure some level of consistency and to make the process of getting started easier, here are some resources that can help. Feel free to clone this repository and use the contents of the `new-repository-kit` as a springboard for new projects.
 
 ## Issue templates
@@ -41,7 +44,7 @@ You can use the base templates for Feature requests and Bug reports present in t
 
 All of our projects are built (and deployed/published, if relevant) through [CircleCI](www.circleci.com/‎). To get CircleCI started in your repository, create a `.circleci` directory and in it, a `config.yml` file. Before pushing it up, make sure that CircleCI is set up properly for your repository. To do so, head to the [CircleCI app](www.circleci.com/‎) and ensure that the __Set Up Project__ button is not visible on your project under the __Add projects__ section.
 
-<div style="text-align: center">
+<div style="display: flex; justify-content: center;">
 <img src="./assets/circleci-setup.png"/>
 </div>
 
