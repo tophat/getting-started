@@ -16,7 +16,10 @@ We have a list of projects on the [opensource portal](https://opensource.tophat.
 
 ## Additional Resources
 ### Project Owners (And Responsibilties)
-For the project owners and responsibilties see [project-owners-and-responsibilities](project-owners-and-responsibilities.md)
+For the project owners and responsibilities see [project-owners-and-responsibilities](project-owners-and-responsibilities.md)
+
+### Creating a new repository
+[Resources](./new-repository-kit) to get started quick with a new projects.
 
 ### Project Maturity Score Card
 For the project maturity scorecard see [scorecard](scorecard.md)
