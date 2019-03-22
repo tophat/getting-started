@@ -100,7 +100,7 @@ It can be tremendously useful for both your maintainers and contributors to have
 
 ## Keeping track of contributors
 
-Contributor credit can be managed easily using [All Contributors Bot](https://allcontributors.org/), which is already set up for the organization. Simply call "@all-contributors please add <user> for <contribution type>" in a comment for the bot to open a PR to adjust the contributors' table in the README. The table will be created if it doesn't exist yet. The list of contribution types can be found [here](https://allcontributors.org/docs/en/emoji-key).
+Contributor credit can be managed easily using [All Contributors Bot](https://allcontributors.org/), which is already set up for the organization. Simply call `@all-contributors please add <user> for <contribution type>` in a comment for the bot to open a PR to adjust the contributors' table in the README. The table will be created if it doesn't exist yet. The list of contribution types can be found [here](https://allcontributors.org/docs/en/emoji-key).
 
 ## Help make this starting kit better
 
