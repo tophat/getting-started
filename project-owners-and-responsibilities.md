@@ -1,7 +1,6 @@
 # Project Owners
-These are the project owners, they are the leaders of the project and are accountable for the responsibilties below.
+Project owners are contributors who have taken on the leadership of a project and are accountable for the [responsibilities below](#responsibilities).
 
-## Project Owners
 | Project | Owner |
 | ------------- | ------------- |
 | [yvm](https://github.com/tophat/yvm) | [Emmanuel Ogbizi](https://github.com/iamogbz) |
@@ -11,7 +10,8 @@ These are the project owners, they are the leaders of the project and are accoun
 | [RichTextView](https://github.com/tophat/RichTextView) | [Ahmed Elkady](https://github.com/aelkady) |
 | [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](https://github.com/mhaber-tophat) |
 
-## Open Source Project Infrastructure Owners
+The infrastructure of this open source repository is maintained by the owners listed in the table below.
+
 | Infrastructure Project | Owner |
 | ------------- | ------------- |
 | [opensource.tophat.com](https://github.com/tophat/opensource.tophat.com) | [Sanchit Gera](https://github.com/sanchitgera) |
@@ -20,28 +20,28 @@ These are the project owners, they are the leaders of the project and are accoun
 | [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](https://github.com/jcrumb) |
 | [getting-started](https://github.com/tophat/getting-started) | [Marc Cataford](https://github.com/mcataford) |
 
-# Responsibilties of Project Owners
-As the owner, you are accountable and responsible for the following. Feel free to delegate responsibilty but accountability lies with you, the owner.
+# Responsibilities
+As the owner, you are agreeing to take on the responsibilities in the following sub-sections. Feel free to delegate some of these responsibilities but the overall accountability lies with you, the owner.
 
-## Responsibilties
-If you are on holidays/cannot handle your responsibilities you are responsible for delegating to contributors/members who can for the period etc. We want to support a community that will grow and manage the project!
+If you are on vacation or cannot handle your responsibilities, you are responsible for delegating any affected tasks or roles to contributors or members who can take them on for the period. We want to support a community that will grow and help manage the project!
 
 ### Project 
-- Go through issue backlog once a week and ping required developers
-- Go through PRs once a week to keep not stale
-- Ensure new issues and PRs are responded to within 1 day (even just hey thanks for contributing will check this out on Monday etc)
+- Go through the issue backlog once a week and ping the required developers if necessary
+- Go through the PRs once a week to make sure they don't go stale
+- Ensure new issues and PRs are responded to within 1 day
+  - If this requires more time, even a simple "Hey! Thanks for contributing. We will check this out on Monday.", for example, would be good
 - Drive a long term roadmap
 
 ### Community
-- Participate and answer inquiries in the project slack channel
-- Encourage others to contribute, assist where required
-- Ensure the project easy to understand and therefore easier to contribute to
+- Participate and answer inquiries in the project Slack channel
+- Encourage others to contribute and assist where required
+- Ensure the project is easy to understand and therefore easier to contribute to
 - Work towards a higher project maturity score
 
 ### Presence
 - Work towards a higher project maturity score
-- Actively grow the project presence:
-- At least one public post every 4 months
+- Actively grow the project presence
+  - At least one public post every 4 months
 
 ### Leadership
 - Attend a monthly open source leadership meeting (1 hour)
@@ -49,4 +49,6 @@ If you are on holidays/cannot handle your responsibilities you are responsible f
 
 
 ## Benefits
-- You are the deciding factor for choices, i.e. you choose the project direction (with the best intentions for the community)
+- You work on something you are passionate about
+- You are contributing to the global tech community
+- You choose the project direction (with the best intentions for the community)
