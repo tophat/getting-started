@@ -9,6 +9,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](https://github.com/mcataford) |
 | [RichTextView](https://github.com/tophat/RichTextView) | [Ahmed Elkady](https://github.com/aelkady) |
 | [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](https://github.com/mhaber-tophat) |
+| [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
 
@@ -19,7 +20,6 @@ The infrastructure of this open source repository is maintained by the owners li
 | [eslint-config](https://github.com/tophat/eslint-config) | [Michael Rose](https://github.com/msrose) |
 | [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](https://github.com/jcrumb) |
 | [getting-started](https://github.com/tophat/getting-started) | [Marc Cataford](https://github.com/mcataford) |
-| [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 
 # Responsibilities
 As the owner, you are agreeing to take on the responsibilities in the following sub-sections. Feel free to delegate some of these responsibilities but the overall accountability lies with you, the owner.
