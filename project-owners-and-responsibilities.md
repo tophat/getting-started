@@ -11,6 +11,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](https://github.com/mhaber-tophat) |
 | [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 | [commit-watch](https://github.com/tophat/commit-watch) | [Shouvik DCosta](https://github.com/sdcosta) |
+| [commit-utils](https://github.com/tophat/commit-utils) | [Sanchit Gera](https://github.com/sanchitgera) |
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
 
