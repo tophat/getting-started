@@ -12,6 +12,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 | [commit-watch](https://github.com/tophat/commit-watch) | [Shouvik DCosta](https://github.com/sdcosta) |
 | [commit-utils](https://github.com/tophat/commit-utils) | [Sanchit Gera](https://github.com/sanchitgera) |
+| [performance-audit-service](https://github.com/tophat/performance-audit-service) | [Marc Cataford](https://github.com/mcataford) |
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
 
