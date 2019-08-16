@@ -15,6 +15,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [performance-audit-service](https://github.com/tophat/performance-audit-service) | [Marc Cataford](https://github.com/mcataford) |
 | [django-training](https://github.com/tophat/django-training) | [Savio Joanes](https://github.com/sjoanes)|
 | [do-less-harm-recorder](https://github.com/tophat/do-less-harm-recorder)| [Marc Cataford](https://github.com/mcataford) |
+| [semantic-release-firefox](https://github.com/tophat/semantic-release-firefox)| [Daniel Basilio](https://github.com/dbasilio) |
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
 
