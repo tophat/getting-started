@@ -21,7 +21,6 @@ For the project owners and responsibilities see [project-owners-and-responsibili
 ### Creating a new repository
 You can clone the [new project starter](https://github.com/tophat/new-project-kit) and hit the ground running!
 
-
 ## Issue templates
 
 Issue templates make the contributor experience infinitely better by providing structure for feature requests, bug reports and other issues that may need to be logged in a repository's issue tracker. You can create your own issue template easily by creating a `.github` directory containing a `ISSUE_TEMPLATE` subdirectory, in which you'll drop your Markdown templates that will be picked up by Github whenever someone tries to open an issue.
