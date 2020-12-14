@@ -3,15 +3,15 @@ Project owners are contributors who have taken on the leadership of a project an
 
 | Project | Owner |
 | ------------- | ------------- |
-| [yvm](https://github.com/tophat/yvm) | [Emmanuel Ogbizi](https://github.com/iamogbz) |
+| [yvm](https://github.com/tophat/yvm) | |
 | [codewatch](https://github.com/tophat/codewatch) | [Josh DM](https://github.com/lime-green) |
-| [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | [Michael Rose](https://github.com/msrose) |
+| [with-immutable-props-to-js](https://github.com/tophat/with-immutable-props-to-js) | |
 | [jenkins-timeline-plugin](https://github.com/tophat/jenkins-timeline-plugin) | [Marc Cataford](https://github.com/mcataford) |
 | [RichTextView](https://github.com/tophat/RichTextView) | [Ahmed Elkady](https://github.com/aelkady) |
 | [sanity-runner](https://github.com/tophat/sanity-runner) | [Matt Haber](https://github.com/mhaber-tophat) |
 | [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 | [commit-watch](https://github.com/tophat/commit-watch) | [Shouvik DCosta](https://github.com/sdcosta) |
-| [commit-utils](https://github.com/tophat/commit-utils) | [Sanchit Gera](https://github.com/sanchitgera) |
+| [commit-utils](https://github.com/tophat/commit-utils) | |
 | [performance-audit-service](https://github.com/tophat/performance-audit-service) | [Marc Cataford](https://github.com/mcataford) |
 | [django-training](https://github.com/tophat/django-training) | [Savio Joanes](https://github.com/sjoanes)|
 | [do-less-harm-recorder](https://github.com/tophat/do-less-harm-recorder)| [Marc Cataford](https://github.com/mcataford) |
@@ -21,10 +21,10 @@ The infrastructure of this open source repository is maintained by the owners li
 
 | Infrastructure Project | Owner |
 | ------------- | ------------- |
-| [opensource.tophat.com](https://github.com/tophat/opensource.tophat.com) | [Sanchit Gera](https://github.com/sanchitgera) |
-| [serverless-slack-invite](https://github.com/tophat/serverless-slack-invite) | [Siavash Mahmoudian](https://github.com/syavash) |
-| [eslint-config](https://github.com/tophat/eslint-config) | [Michael Rose](https://github.com/msrose) |
-| [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | [Jay Crumb](https://github.com/jcrumb) |
+| [opensource.tophat.com](https://github.com/tophat/opensource.tophat.com) | |
+| [serverless-slack-invite](https://github.com/tophat/serverless-slack-invite) | |
+| [eslint-config](https://github.com/tophat/eslint-config) | |
+| [oss-metrics-dashboard](https://github.com/tophat/oss-metrics-dashboard) | |
 | [getting-started](https://github.com/tophat/getting-started) | [Marc Cataford](https://github.com/mcataford) |
 
 # Responsibilities
