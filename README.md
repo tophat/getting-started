@@ -19,7 +19,45 @@ We have a list of projects on the [opensource portal](https://opensource.tophat.
 For the project owners and responsibilities see [project-owners-and-responsibilities](project-owners-and-responsibilities.md)
 
 ### Creating a new repository
-[Resources](./new-repository-kit) to get started quick with a new projects. You can also clone the [new project starter](https://github.com/tophat/new-project-kit) and hit the ground running!
+You can clone the [new project starter](https://github.com/tophat/new-project-kit) and hit the ground running!
+
+
+## Issue templates
+
+Issue templates make the contributor experience infinitely better by providing structure for feature requests, bug reports and other issues that may need to be logged in a repository's issue tracker. You can create your own issue template easily by creating a `.github` directory containing a `ISSUE_TEMPLATE` subdirectory, in which you'll drop your Markdown templates that will be picked up by Github whenever someone tries to open an issue.
+
+A generic issue template would look like this:
+
+```markdown
+---
+name: My new issue type
+about: This issue type is perfect for feature requests!
+
+---
+
+**Description**
+A clear and concise description of what you are asking about.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Version: [e.g. 1.0]
+ - Shell: [e.g. bash/sh/zsh/fish]
+ - Node version: [e.g. v8.10.0], from `node --version`
+ - ...
+
+
+**Additional context**
+Add any other context about the problem here.
+```
+
+Writing templates is as easy as creating a Markdown file in the `.github/ISSUE_TEMPLATE` folder and pushing the changes up!
+
+You can use the base templates for Feature requests and Bug reports present in the `.github/ISSUE_TEMPLATE` directory present in the [new project starter kit](https://github.com/tophat/new-project-kit).
+
+
 
 ### Project Maturity Score Card
 For the project maturity scorecard see [scorecard](scorecard.md)
