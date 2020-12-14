@@ -19,7 +19,7 @@ We have a list of projects on the [opensource portal](https://opensource.tophat.
 For the project owners and responsibilities see [project-owners-and-responsibilities](project-owners-and-responsibilities.md)
 
 ### Creating a new repository
-[Resources](./new-repository-kit) to get started quick with a new projects. You can also clone the [new project starter](https://github.com/tophat/new-project-kit) and hit the ground running!
+[Resources](https://github.com/tophat/new-project-kit) to get started quick with a new projects. You can also clone the [new project starter](https://github.com/tophat/new-project-kit) and hit the ground running!
 
 ### Project Maturity Score Card
 For the project maturity scorecard see [scorecard](scorecard.md)
