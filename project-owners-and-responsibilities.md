@@ -14,6 +14,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [commit-utils](https://github.com/tophat/commit-utils) | |
 | [django-training](https://github.com/tophat/django-training) | [Savio Joanes](https://github.com/sjoanes)|
 | [semantic-release-firefox](https://github.com/tophat/semantic-release-firefox)| [Daniel Basilio](https://github.com/dbasilio) |
+| [syrupy](https://github.com/tophat/syrupy) | [Noah Negin-Ulster](https://github.com/noahnu)
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
 
