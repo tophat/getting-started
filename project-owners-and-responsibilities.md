@@ -12,9 +12,7 @@ Project owners are contributors who have taken on the leadership of a project an
 | [monodeploy](https://github.com/tophat/monodeploy) | [Brendan Hall-Hern](https://github.com/thebrendan) |
 | [commit-watch](https://github.com/tophat/commit-watch) | [Shouvik DCosta](https://github.com/sdcosta) |
 | [commit-utils](https://github.com/tophat/commit-utils) | |
-| [performance-audit-service](https://github.com/tophat/performance-audit-service) | [Marc Cataford](https://github.com/mcataford) |
 | [django-training](https://github.com/tophat/django-training) | [Savio Joanes](https://github.com/sjoanes)|
-| [do-less-harm-recorder](https://github.com/tophat/do-less-harm-recorder)| [Marc Cataford](https://github.com/mcataford) |
 | [semantic-release-firefox](https://github.com/tophat/semantic-release-firefox)| [Daniel Basilio](https://github.com/dbasilio) |
 
 The infrastructure of this open source repository is maintained by the owners listed in the table below.
